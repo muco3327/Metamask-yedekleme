@@ -1,4 +1,4 @@
-## Cüzdanı başka biryere kurduğunuzda eski ağlar silinir ve tek tek eklemek gerekir. Onun yerine bu işlemleri yapabilirsiniz. Metamask'a daha önce eklediğiniz ağları kaydedebilirsiniz.
+## Cüzdanı başka biryere kurduğunuzda eski ağlar silinir ve tek tek eklemek gerekir. Onun yerine bu işlemleri yapabilirsiniz. Metamask'a daha önce eklediğiniz ağları kaydedebilirsiniz..
 
 ### 1. Yedeklenecek hesap seçilir. Ayarlara ve sonrasında gelişmişe girilir.
 
